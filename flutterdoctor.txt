@@ -1,0 +1,6 @@
+when facing issues with installing flutter after runnning flutter doctor
+use
+channel dev
+flutter upgrade
+
+to rid unable to detect android studio plugin for flutter and dart
